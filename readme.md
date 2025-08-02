@@ -1,8 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-# give me a readme file for this
-
-Certainly! Here’s a sample `README.md` for your **EV-ADOPTION-FORECASTING** repository, crafted based on the files seen in your screenshot:
 
 # EV-ADOPTION-FORECASTING
 
@@ -72,6 +67,21 @@ This is the trained machine learning model used for predicting future EV adoptio
 ## Results
 
 See the provided Jupyter notebooks for EDA, forecasting plots, and evaluation metrics.
+<img width="1887" height="1036" alt="Screenshot 2025-08-02 211149" src="https://github.com/user-attachments/assets/5959cfc1-680d-44ed-8292-346bb754f514" />
+
+
+<img width="1875" height="1034" alt="Screenshot 2025-08-02 211236" src="https://github.com/user-attachments/assets/12c6b7a3-eb2b-4d11-9f00-9a0bff20b16c" />
+
+
+<img width="1882" height="1043" alt="Screenshot 2025-08-02 211308" src="https://github.com/user-attachments/assets/bd82f2cc-87c8-476f-b786-b529427aa2bd" />
+
+
+
+<img width="1860" height="1032" alt="Screenshot 2025-08-02 211340" src="https://github.com/user-attachments/assets/dff3186e-9022-4822-a4cf-055755cc64da" />
+
+
+
+
 
 ## Image
 
